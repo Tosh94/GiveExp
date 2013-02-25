@@ -1,0 +1,26 @@
+name: GiveExp
+main: me.PimpDuck.GiveExp.GiveExp
+version: 1.0
+commands:
+  giveexp:
+    description: Allows player to see info on the plugin!
+  giveexp10:
+    description: Gives a player 10 EXP levels!
+  giveexp20:
+    description: Gives a player 20 EXP levels!
+  giveexp30:
+    description: Gives a player 30 EXP levels!
+  giveexp40:
+    description: Gives a player 40 EXP levels!
+  giveexp50:
+    description: Gives a player 50 EXP levels!
+  giveexp60:
+    description: Gives a player 60 EXP levels!
+  giveexp70:
+    description: Gives a player 70 EXP levels!
+  giveexp80:
+    description: Gives a player 80 EXP levels!
+  giveexp90:
+    description: Gives a player 90 EXP levels!
+  giveexp100:
+    description: Gives a player 100 EXP levels!
